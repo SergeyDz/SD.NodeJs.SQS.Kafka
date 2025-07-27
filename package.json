@@ -8,7 +8,7 @@
     "promise": "latest", 
     "bunyan": "latest",
     "bunyan-elasticsearch": "latest",
-    "kafka-node": "~0.3.2"
+    "kafka-node": "~2.2.3"
   },
 
   "scripts": {
